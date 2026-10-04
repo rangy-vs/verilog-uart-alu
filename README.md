@@ -1,6 +1,6 @@
 # Verilog: RV32I ALU + UART (8N1)
 
-![ci](../../actions/workflows/ci.yml/badge.svg)
+![ci](https://github.com/rangy-vs/verilog-uart-alu/actions/workflows/ci.yml/badge.svg)
 
 Synthesizable RTL with self-checking testbenches, simulated with [Icarus Verilog](https://steveicarus.github.io/iverilog/).
 
